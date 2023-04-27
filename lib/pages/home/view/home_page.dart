@@ -162,6 +162,8 @@ class _HomeBlocState extends State<HomeBloc> {
                                       ),
                                     ]),
                                 child: Column(
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceBetween,
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Row(
